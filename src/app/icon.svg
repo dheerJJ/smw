@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" width="32" height="32">
+  <rect width="32" height="32" rx="8" fill="#0d9488"/>
+  <!-- Stylized clean tooth icon -->
+  <path d="M16 6C12.5 6 9 8.2 9 12C9 14.5 10 17 11 20C11.8 22.4 12.5 25.5 14 25.5C15 25.5 15.3 23.5 16 21C16.7 23.5 17 25.5 18 25.5C19.5 25.5 20.2 22.4 21 20C22 17 23 14.5 23 12C23 8.2 19.5 6 16 6Z" fill="#ffffff"/>
+  <!-- Subtle center accent -->
+  <circle cx="16" cy="13" r="2" fill="#0d9488"/>
+</svg>
